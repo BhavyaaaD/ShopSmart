@@ -34,6 +34,10 @@ header h1{
     margin:10px auto auto;
   }
 
+.edit-mode{
+    color:#ccc;
+}
+
 .form-input{
     width: 100%;
     font-size:18px;
